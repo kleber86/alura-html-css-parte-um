@@ -1,5 +1,5 @@
 **Curso de HTML5 e CSS3 parte 1: A primeira página da Web**
-- [ ] Marcação do primeiro texto
+- [x] Marcação do primeiro texto
 - [ ] Separando o conteúdo e informações
 - [ ] Trabalhando com CSS
 - [ ] Estilizando imagens
