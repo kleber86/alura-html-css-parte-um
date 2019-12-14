@@ -3,6 +3,7 @@
 }
 .principal{
     background-color: #CCCCCC;
+    padding: 30px;
 }
 h1{
     text-align: center;
@@ -21,7 +22,17 @@ em strong{
 }
 .beneficios{
     background-color: #FFFFFF;
+    padding: 20px;
 }
 h2{
     text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagens-beneficios{
+    width: 50%;
 }
