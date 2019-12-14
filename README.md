@@ -2,6 +2,6 @@
 - [x] Marcação do primeiro texto
 - [x] Separando o conteúdo e informações
 - [x] Trabalhando com CSS
-- [ ] Estilizando imagens
+- [x] Estilizando imagens
 - [ ] Listas e divisões de conteúdo
 - [ ] Finalizando a página
