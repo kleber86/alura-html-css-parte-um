@@ -4,4 +4,4 @@
 - [x] Trabalhando com CSS
 - [x] Estilizando imagens
 - [x] Listas e divisões de conteúdo
-- [ ] Finalizando a página
+- [x] Finalizando a página
