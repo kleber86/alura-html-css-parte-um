@@ -3,5 +3,5 @@
 - [x] Separando o conteúdo e informações
 - [x] Trabalhando com CSS
 - [x] Estilizando imagens
-- [ ] Listas e divisões de conteúdo
+- [x] Listas e divisões de conteúdo
 - [ ] Finalizando a página

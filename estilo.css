@@ -5,7 +5,11 @@
     background-color: #CCCCCC;
     padding: 30px;
 }
-h1{
+.titulo-principal{
+    padding-left: 20px;
+
+}
+.titulo-centralizado{
     text-align: center;
 }
 p{
@@ -23,9 +27,6 @@ em strong{
 .beneficios{
     background-color: #FFFFFF;
     padding: 20px;
-}
-h2{
-    text-align: center;
 }
 ul{
     display: inline-block;
